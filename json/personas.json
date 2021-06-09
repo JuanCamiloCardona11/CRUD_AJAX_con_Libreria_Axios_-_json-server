@@ -6,7 +6,7 @@
             "cedula": "100",
             "edad": 22,
             "genero": "m",
-            "estatura": 1.86,
+            "estatura": 186,
             "estCivil": "s"
         },
         {
@@ -15,7 +15,7 @@
             "cedula": "101",
             "edad": 23,
             "genero": "m",
-            "estatura": 1.65,
+            "estatura": 165,
             "estCivil": "c"
         },
         {
@@ -24,7 +24,7 @@
             "cedula": "102",
             "edad": 23,
             "genero": "m",
-            "estatura": 1.70,
+            "estatura": 170,
             "estCivil": "d"
         },
         {
@@ -33,7 +33,7 @@
             "cedula": "103",
             "edad": 20,
             "genero": "f",
-            "estatura": 1.68,
+            "estatura": 168,
             "estCivil": "s"
         },
         {
@@ -42,7 +42,7 @@
             "cedula": "104",
             "edad": 25,
             "genero": "m",
-            "estatura": 1.70,
+            "estatura": 170,
             "estCivil": "s"
         },
         {
@@ -51,7 +51,7 @@
             "cedula": "105",
             "edad": 30,
             "genero": "o",
-            "estatura": 1.90,
+            "estatura": 190,
             "estCivil": "o"
         },
         {
@@ -60,7 +60,7 @@
             "cedula": "106",
             "edad": 23,
             "genero": "m",
-            "estatura": 1.72,
+            "estatura": 172,
             "estCivil": "c"
         },
         {
@@ -69,7 +69,7 @@
             "cedula": "107",
             "edad": 24,
             "genero": "m",
-            "estatura": 1.80,
+            "estatura": 180,
             "estCivil": "d"
         },
         {
@@ -78,7 +78,7 @@
             "cedula": "108",
             "edad": 24,
             "genero": "m",
-            "estatura": 1.81,
+            "estatura": 181,
             "estCivil": "s"
         },
         {
@@ -87,7 +87,7 @@
             "cedula": "109",
             "edad": 23,
             "genero": "m",
-            "estatura": 1.74,
+            "estatura": 174,
             "estCivil": "s"
         }
     ]
